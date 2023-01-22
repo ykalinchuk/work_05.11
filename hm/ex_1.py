@@ -1,0 +1,5 @@
+part_1=int(input("number_1->"))
+part_2=int(input("number_2->"))
+part_3=int(input("number_3->"))
+print(int(part_1+part_2+part_3))
+print(int(part_1*part_2*part_3))
